@@ -1,0 +1,114 @@
+*{
+    margin:0px;
+    padding:0;
+}
+
+nav{
+    background-color: rgb(169,157,163);
+    color: rgb(75, 71, 71);
+    padding: 10px;
+
+}
+
+li,h1,ul{
+    display:inline;
+    
+}
+nav.h1{
+    font-family: poppins sans-serif;
+    margin-bottom: 600px;
+}
+ul{
+    margin-left:55%;
+}
+
+li{
+    color: gray;
+    cursor:pointer;
+
+}
+li:hover{
+    color:white
+}
+
+input{
+    width:60%;
+    padding:15px ;
+}
+
+.searchbar{
+    padding:50px;
+    text-align:center;
+    width:45%; 
+
+}
+.mainhead{
+    color:rgb(99, 89, 99);
+    padding-left: 0%;
+    text-align:center;
+
+
+}
+
+.container {
+    height: 100px;
+    position: relative;
+    border: 0px solid grey;
+  }
+  
+  .center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+  }
+
+
+
+
+.secondline{
+    color:rgb(99, 89, 99);
+    padding-left: 0%;
+    text-align:center;
+    padding-bottom: 20px;
+}
+    
+
+
+.centered-text {
+    text-align: justify;
+    padding:30%;
+    color:grey;
+}
+
+.chatbot{
+    width:100px;
+    height:100px;
+    padding-top:20px;
+    padding-left:40%;
+    text-align:justify;
+}
+.chatbotpara{
+    text-align:center;
+    padding-left:30;
+    color:rgb(98, 83, 83);
+
+}
+.products{
+    text-align: center;
+}
+.about{
+    text-align: center;
+    margin-top:20px;
+    padding:20px;
+
+}
+
+.contact{
+    background-color: rgb(169, 157, 163);
+    color: white;
+    text-align:center;
+    padding: 40px;
+}
